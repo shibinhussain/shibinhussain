@@ -1,5 +1,5 @@
 <h1 align="center" style = "font-family:verdana;">Shibin Hussain</h1>
-<h3 align="center" style = "font-family:verdana;">| Computer Science and Engineering Graduate |</h3>
+<h3 align="center" style = "font-family:verdana;">| Software/Application Developer |</h3>
 
 &nbsp;
 
